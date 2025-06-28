@@ -8,7 +8,7 @@ Fitur utama aplikasi:
 
 framework utama:
 - streamlit
-- 
+  
 API A& Model AI:
 - langchain
 - langchain-community
