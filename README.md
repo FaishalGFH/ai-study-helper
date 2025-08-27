@@ -1,4 +1,4 @@
-# ai-study-helper
+# StudyHelper AI
 
 Aplikasi ini membantu mahasiswa belajar dengan cara meringkas materi dari PDF atau YouTube.
 
@@ -22,4 +22,5 @@ Aplikasi ini membantu mahasiswa belajar dengan cara meringkas materi dari PDF at
 ## Utilitas:
 - python-dotenv
 
-Catatan: Fitur transkrip YouTube mungkin tidak berfungsi di versi online ini karena pembatasan dari pihak YouTube terhadap server cloud. Fitur ini berjalan lancar saat dijalankan secara lokal.
+## Catatan:
+Fitur transkrip YouTube mungkin tidak berfungsi di versi online ini karena pembatasan dari pihak YouTube terhadap server cloud. Fitur ini berjalan lancar saat dijalankan secara lokal.
