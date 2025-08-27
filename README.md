@@ -1,24 +1,23 @@
 # ai-study-helper
 
-ai-study-helper
 Aplikasi ini membantu mahasiswa belajar dengan cara meringkas materi dari PDF atau YouTube.
 
-Fitur utama aplikasi:
+## Fitur utama aplikasi:
 - Ringkasan materi otomatis
 - Chatbot
 - Generator kuis pilihan ganda
 
-framework utama:
+## Framework utama:
 - streamlit
 
-API A& Model AI:
+## API & Model AI:
 - langchain
 - langchain-community
 - langchain-google-genai
 
-Pemrosesan data dan emvbeddings:
+## Pemrosesan data dan embeddings:
 - faiss-cpu
 - sentence-transformers
 
-Utilitas:
+## Utilitas:
 - python-dotenv
