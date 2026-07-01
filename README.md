@@ -1,4 +1,4 @@
-# 📚 StudyHelper AI
+# StudyHelper AI
 
 Aplikasi **Streamlit** berbasis **RAG (Retrieval-Augmented Generation)** yang membantu mahasiswa belajar dengan cara meringkas materi, menjawab pertanyaan, dan membuat kuis dari **file PDF atau video YouTube**. Ditenagai oleh **LangChain**, **FAISS**, dan **Google Gemini**.
 
